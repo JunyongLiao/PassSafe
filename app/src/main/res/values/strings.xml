@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">心中无码</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_base">基础密码</string>
+    <string name="prompt_application">应用名称</string>
+    <string name="prompt_password_length">密码长度</string>
+    <string name="prompt_password_type">密码类型</string>
+    <string name="prompt_password">安全密码</string>
+    <string name="prompt_password_type_hex">HEX</string>
+    <string name="prompt_password_type_number">数字</string>
+    <string name="prompt_password_type_letter">字母</string>
+    <string name="prompt_password_type_mix">混合</string>
+
+    <string name="action_generate">生成密码</string>
+    <string name="action_copy">拷贝</string>
+    <string name="error_invalid_base">必须输入基础密码</string>
+    <string name="error_invalid_application">必须输入应用名称</string>
+    <string name="error_invalid_length">密码长度必须是0-64之间的数字</string>
+</resources>
